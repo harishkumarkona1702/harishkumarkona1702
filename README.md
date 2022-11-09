@@ -5,9 +5,9 @@ Welcome to Kona Venkata Sai Harish Kumar Profile! <img src="https://media.giphy.
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishkumarkona1702&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshpothina" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishkumarkona1702&label=Profile%20views&color=0e75b6&style=flat" alt="Kona Venkata Sai Harish Kumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/impothina" target="blank"><img src="https://img.shields.io/twitter/follow/impothina?logo=twitter&style=for-the-badge" alt="impothina" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KonaVenkataSai5?t=u8xToy4Tor_6j7jcITiTQg&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/KonaVenkataSai5?logo=twitter&style=for-the-badge" alt="KonaVenkataSai5" /></a> </p>
 
 - 🔭 I’m currently working as a **Assistant System Engineer**
 
